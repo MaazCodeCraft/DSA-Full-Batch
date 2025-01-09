@@ -32,25 +32,31 @@
 # EXCERSICE
 1.  
     ```
+    Task 01:
     Create a Simple Calculator (+, -, *).
     ```
 2. 
     ```
+    Task 02:
     Create a Simple Average Calculator.
     ```
-Q1.  
+3.  
     ```
+    Q1:
     Find Area?
     ```
-Q2.  
+4.  
     ```
+    Q2.
     Calculate GST Tax?
     ```
-Q3.  
+5. 
     ```
+    Q3.
     Create a Simple Intrest Calculator.
     ```
-Q4.  
+6.  
     ```
+    Q4.
     Find Area Using macros for PI.
     ```
