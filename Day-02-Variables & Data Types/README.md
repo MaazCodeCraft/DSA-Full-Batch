@@ -30,11 +30,11 @@
    Input in C++.
     ```
 # EXCERSICE
-Task 01.  
+1.  
     ```
     Create a Simple Calculator (+, -, *).
     ```
-Task 02. 
+2. 
     ```
     Create a Simple Average Calculator.
     ```
