@@ -30,5 +30,27 @@
    Input in C++.
     ```
 # EXCERSICE
-
-
+Task 01.  
+    ```
+    Create a Simple Calculator (+, -, *).
+    ```
+Task 02. 
+    ```
+    Create a Simple Average Calculator.
+    ```
+Q1.  
+    ```
+    Find Area?
+    ```
+Q2.  
+    ```
+    Calculate GST Tax?
+    ```
+Q3.  
+    ```
+    Create a Simple Intrest Calculator.
+    ```
+Q4.  
+    ```
+    Find Area Using macros for PI.
+    ```
