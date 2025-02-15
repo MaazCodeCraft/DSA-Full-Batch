@@ -83,6 +83,7 @@
     *******
      *****
       ***
+       *
 11.  
     ```
     Butterfly Pattern
@@ -105,3 +106,58 @@
       ***
        **
         *
+2.  
+    ```
+    Task 02:
+    Print the below pattern for n = 4.
+       *
+      * *
+     *   *
+    *     *
+     *   *
+      * *
+       *
+3.  
+    ```
+    Task 03:
+    Print the below pattern for n = 4.
+       *
+      ***
+     *****
+    *******
+       *
+       *
+       *
+       *
+4.  
+    ```
+    Q1:
+    Print the below pattern for n = 4.
+    1 
+    0 1 
+    0 1 0 
+    1 0 1 0
+5.  
+    ```
+    Q2:
+    Print the below pattern for n = 4.
+       ****
+      ****
+     ****
+    ****
+6.  
+    ```
+    Q3:
+    Print the below pattern for n = 4.
+    A
+    AB
+    ABC
+    ABCD
+7.  
+    ```
+    Q4:
+    Print the below pattern for n = 4.
+       1
+      212
+     32123
+    4321234
